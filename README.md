@@ -93,5 +93,34 @@ Non-functional requirements describe **how the system performs**—the quality a
 - Booking confirmation emails should be sent within 2 minutes.
 - The user interface should be responsive on both desktop and mobile devices.
 - Data must be securely stored and encrypted to protect user privacy.
+## Use Case Diagrams
+
+Use Case Diagrams are a visual representation of how users (actors) interact with a system. They show the relationships between actors and the different functions (use cases) that the system provides.  
+
+Use Case Diagrams are an essential part of **Requirement Analysis** because they help in:
+- Identifying user interactions and system boundaries.  
+- Clarifying the functionality of the system in a simple and visual format.  
+- Improving communication between stakeholders and developers.  
+- Serving as a reference point for design and testing phases.  
+
+### Example: Booking Management System Use Case Diagram
+
+Below is a sample use case diagram for a booking management system. It shows the main actors (**User** and **Admin**) and their interactions with the system’s functionalities such as creating, updating, canceling, viewing, and approving bookings.
+
+![Use Case Diagram – Booking Management System](https://raw.githubusercontent.com/Eliphaz21/requirement-analysis/refs/heads/main/alx-booking-uc.png)
+
+**Actors:**
+- **User:** Can create, update, cancel, and view bookings.  
+- **Admin:** Can approve and manage bookings.  
+
+**Use Cases:**
+- Create Booking  
+- Update Booking  
+- Cancel Booking  
+- View Booking History  
+- Approve Booking  
+- Manage Booking  
+
+This diagram provides a clear overview of how the system functions from the user’s and admin’s perspectives.
 
 
