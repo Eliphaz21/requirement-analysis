@@ -51,4 +51,47 @@ Requirement Analysis involves several key activities that help ensure the softwa
 
 - **Requirement Validation**  
   Ensuring that documented requirements are complete, feasible, and testable. This involves reviewing requirements with stakeholders and confirming that they accurately reflect user needs.
+  ## Types of Requirements
+
+Requirements in software development are generally categorized into **Functional** and **Non-functional Requirements**. Both are essential for building a successful system.
+
+### Functional Requirements
+Functional requirements describe what the system **should do**—the specific behaviors or functions of the software.  
+
+**Examples for a Booking Management System:**
+- Users can create, update, and cancel bookings.
+- The system sends confirmation emails after a booking is made.
+- Admins can manage and approve bookings.
+- Users can view booking history and details.
+
+### Non-functional Requirements
+Non-functional requirements describe **how the system performs**—the quality attributes, constraints, and overall system behavior.  
+
+**Examples for a Booking Management System:**
+- The system must handle up to 1,000 concurrent users.
+- Booking confirmation emails should be sent within 2 minutes.
+- The user interface should be responsive on both desktop and mobile devices.
+- Data must be securely stored and encrypted to protect user privacy.
+## Types of Requirements
+
+Requirements in software development are generally categorized into **Functional** and **Non-functional Requirements**. Both are essential for building a successful system.
+
+### Functional Requirements
+Functional requirements describe what the system **should do**—the specific behaviors or functions of the software.  
+
+**Examples for a Booking Management System:**
+- Users can create, update, and cancel bookings.
+- The system sends confirmation emails after a booking is made.
+- Admins can manage and approve bookings.
+- Users can view booking history and details.
+
+### Non-functional Requirements
+Non-functional requirements describe **how the system performs**—the quality attributes, constraints, and overall system behavior.  
+
+**Examples for a Booking Management System:**
+- The system must handle up to 1,000 concurrent users.
+- Booking confirmation emails should be sent within 2 minutes.
+- The user interface should be responsive on both desktop and mobile devices.
+- Data must be securely stored and encrypted to protect user privacy.
+
 
