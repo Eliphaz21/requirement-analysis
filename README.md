@@ -33,3 +33,22 @@ Requirement Analysis plays a vital role in ensuring the success of a software pr
    Clear and well-documented requirements provide a solid foundation for designing, coding, and testing the software. This leads to better project estimation, resource allocation, and time management, making the development process more efficient.
 
 Additional benefits include enhanced communication among team members, better software quality, and easier maintenance and scalability of the system.
+## Key Activities in Requirement Analysis
+
+Requirement Analysis involves several key activities that help ensure the software meets stakeholder needs. The main activities include:
+
+- **Requirement Gathering**  
+  Collecting information about what stakeholders need from the system. This can involve interviews, surveys, questionnaires, observations, and reviewing existing documentation.
+
+- **Requirement Elicitation**  
+  Actively engaging stakeholders to uncover implicit needs and expectations that may not be explicitly stated. Techniques include workshops, brainstorming sessions, and prototyping.
+
+- **Requirement Documentation**  
+  Recording requirements in a clear, organized, and accessible format. This documentation serves as a reference for developers, testers, and project managers throughout the SDLC.
+
+- **Requirement Analysis and Modeling**  
+  Examining and structuring requirements to identify conflicts, dependencies, and priorities. Models such as use case diagrams, data flow diagrams, or entity-relationship diagrams are often used to visualize requirements.
+
+- **Requirement Validation**  
+  Ensuring that documented requirements are complete, feasible, and testable. This involves reviewing requirements with stakeholders and confirming that they accurately reflect user needs.
+
