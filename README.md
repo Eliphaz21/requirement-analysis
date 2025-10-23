@@ -122,5 +122,31 @@ Below is a sample use case diagram for a booking management system. It shows the
 - Manage Booking  
 
 This diagram provides a clear overview of how the system functions from the user’s and admin’s perspectives.
+## Acceptance Criteria
+
+Acceptance Criteria are specific conditions or requirements that a software feature must meet to be accepted by the stakeholders or end users. They define what is considered “done” for a particular user story or functionality.  
+
+Acceptance Criteria help ensure that the development team clearly understands the expected outcomes and can verify when a feature is complete and functioning correctly.  
+
+### Importance of Acceptance Criteria
+- **Clarity and Alignment:** Ensures that all stakeholders (developers, testers, and clients) have a shared understanding of the feature’s expectations.  
+- **Improves Quality Assurance:** Provides measurable and testable benchmarks for QA teams to validate the functionality.  
+- **Prevents Scope Creep:** Clearly defines what is included or excluded in the feature to avoid unexpected changes during development.  
+- **Supports User Satisfaction:** Helps guarantee that the delivered software meets user needs and business goals.  
+
+### Example: Acceptance Criteria for Checkout Feature in the Booking Management System
+
+**Feature:** Checkout Process  
+
+**Acceptance Criteria:**
+1. The user must be able to view all selected bookings in the checkout summary.  
+2. The system must calculate and display the total booking amount, including taxes and fees.  
+3. The user must be able to enter and save valid payment details (credit/debit card, PayPal, etc.).  
+4. Upon successful payment, a confirmation message and email should be sent to the user within 2 minutes.  
+5. If payment fails, the user should receive a clear error message with an option to retry.  
+6. All transactions must be securely processed using SSL encryption.  
+
+These criteria ensure that the **Checkout** feature works as expected, maintains security, and delivers a smooth experience for users.
+
 
 
